@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 53f0b681bf7f0044893b430e5e12961a
+timeCreated: 1504813415
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Plack the Hanet
+  fontNames:
+  - Plack the Hanet
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e84394ce8fba6d64898539ee74407e6d
+timeCreated: 1504813415
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TRON muestre CINE1
+  fontNames:
+  - TRON muestre CINE1
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
